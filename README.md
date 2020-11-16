@@ -21,4 +21,6 @@ Java-experience5
 #### 五、实验步骤
 #### 六、核心代码
 #### 七、实验结果
+![结果截图](https://github.com/wccc33/shiyan5/commit/735b15cb87de5877856585859160699d17075a0b)
+![结果截图]()
 #### 八、实验感想
